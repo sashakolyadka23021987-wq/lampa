@@ -1,0 +1,14 @@
+{
+    "name": "UAFix",
+    "version": "1.0.0",
+    "author": "ChatGPT",
+    "description": "Плагін Lampa для каталогу UAFIX.NET",
+    "plugin": true,
+    "components": [
+        {
+            "name": "uafix",
+            "type": "js",
+            "url": "https://mega.nz/file/KyJGQY4A#R6htahWJtLLWgfN_MFRQySw9j-vtImk2ij8uhcD_ZOk"
+        }
+    ]
+}
